@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++_Projects\Ray_marching\Ray_marching\main.cpp(9,26): warning C4305: инициализация: усечение из "double" в "float"
+  Ray_marching.vcxproj -> D:\C++_Projects\Ray_marching\x64\Debug\Ray_marching.exe

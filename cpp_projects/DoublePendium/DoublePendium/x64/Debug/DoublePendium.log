@@ -1,0 +1,11 @@
+﻿D:\Visual_Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (DoublePendium.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(27,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(29,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(43,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(43,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(44,129): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(44,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(45,177): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_Projects\DoublePendium\DoublePendium\Source.cpp(45,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  DoublePendium.vcxproj -> D:\C++_Projects\DoublePendium\x64\Debug\DoublePendulum.exe

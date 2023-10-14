@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\C++_Projects\Ray_tracing2.0\Ray_tracing2.0\main.cpp(27,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\C++_Projects\Ray_tracing2.0\Ray_tracing2.0\main.cpp(33,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\C++_Projects\Ray_tracing2.0\Ray_tracing2.0\main.cpp(33,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\C++_Projects\Ray_tracing2.0\Ray_tracing2.0\main.cpp(41,26): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\C++_Projects\Ray_tracing2.0\Ray_tracing2.0\main.cpp(41,22): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  Ray_tracing2.0.vcxproj -> D:\C++_Projects\Ray_tracing2.0\x64\Debug\Ray_tracing2.0.exe
